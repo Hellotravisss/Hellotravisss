@@ -1,4 +1,4 @@
-<h1 align="center">Travis Zhang 张颀</h1>
+<h1 align="center">Travis Zhang </h1>
 <p align="center"><em>I make bricks by day, photograph the buildings they become, and ship software at night.</em></p>
 
 <p align="center">
